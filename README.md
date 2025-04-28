@@ -17,7 +17,18 @@ Bu proje, ASP.NET Core 6.0 teknolojisi ile geliştirilmiş dinamik bir kariyer p
 ✅ Dinamik Yönetim Paneli: İlanlar, başvurular ve kullanıcılar üzerinde tam kontrol sağlanabilir.
 
  ## 🛠 Kullanılan Teknolojiler
-Teknoloji | Açıklama ASP.NET Core 6.0 | Web uygulaması geliştirme framework'ü Microsoft.EntityFrameworkCore 6.0.3 | ORM (Object-Relational Mapping) aracı Microsoft.EntityFrameworkCore.SqlServer 6.0.3 | SQL Server veritabanı bağlantısı Controller & View Components | MVC mimarisi yapıları Code First Yaklaşımı | Veritabanı modellemesi LINQ | Veri sorgulama dili Layout ve Görünüm Yönetimi | Arayüz ve görünüm organizasyonu Dashboard Tasarımı | Yönetim paneli geliştirme
+ ### Teknoloji        
+ ASP.NET Core 6.0   Web uygulaması geliştirme framework'ü Microsoft.EntityFrameworkCore 6.0.3 
+
+ ORM (Object-Relational Mapping) aracı Microsoft.EntityFrameworkCore.SqlServer 6.0.3 
+
+ SQL Server veritabanı bağlantısı Controller & View Components 
+MVC mimarisi yapıları Code First Yaklaşımı 
+ Veritabanı modellemesi LINQ 
+Veri sorgulama dili Layout ve Görünüm Yönetimi  
+Arayüz ve görünüm organizasyonu Dashboard Tasarımı
+
+Yönetim paneli geliştirme
 
  ## 🚀 Proje Kurulumu
 Projenin yerel ortamda çalıştırılabilmesi için aşağıdaki adımları takip edebilirsiniz:
